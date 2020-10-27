@@ -1,5 +1,5 @@
-FROM gurmukh/arch-delugevpn:latest
-MAINTAINER gurmukh
+FROM binhex/arch-int-vpn:latest
+MAINTAINER binhex
 
 # additional files
 ##################
