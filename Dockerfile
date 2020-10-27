@@ -1,4 +1,4 @@
-FROM gurmukh/arch-int-vpn:latest
+FROM gurmukh/arch-delugevpn:latest
 MAINTAINER gurmukh
 
 # additional files
